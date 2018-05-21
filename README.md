@@ -11,7 +11,7 @@ This is a simple JSON file comparer which is written in Python (where js written
   pip install json2html
 * replace the a.json and b.json with your json file you want to compare.
 
-# Run compare.py to see the differences between two json files(a.json & b.json) by the following command and see the output in your Browser.
+ Run compare.py to see the differences between two json files(a.json & b.json) by the following command and see the output in your Browser.
 
 	python compare.py
 
