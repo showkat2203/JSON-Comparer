@@ -1,6 +1,6 @@
 # JSON-Comparer
 
-Description 
+ 
 This is a simple JSON file comparer which is written in Python (where js written inside python script). 
 
 # Getting Started
