@@ -1,5 +1,6 @@
 # JSON-Comparer
 
+<<<<<<< Updated upstream
  
 This is a simple JSON file comparer which is written in Python (where js written inside python script). 
 
@@ -15,7 +16,3 @@ This is a simple JSON file comparer which is written in Python (where js written
  Run compare.py to see the differences between two json files(a.json & b.json) by the following command and see the output in your Browser.
 
     python compare.py
-
-
-
-
